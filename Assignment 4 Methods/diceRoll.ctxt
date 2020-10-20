@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=diceRoll
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=sides
+comment2.target=int\ dieRoll(int)
+numComments=3
